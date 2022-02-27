@@ -1,0 +1,18 @@
+body{
+	background: #342a;
+}
+
+#tituloPrincipal{
+	color: red;
+}
+
+.titulos {
+	font-family: sans-serif;
+}
+
+.green{
+	color: green;
+}
+.red{
+	color: darkred;
+}
