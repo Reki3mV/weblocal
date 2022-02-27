@@ -9,3 +9,10 @@ body{
 .titulos {
 	font-family: sans-serif;
 }
+
+.green{
+	color: green;
+}
+.red{
+	color: darkred;
+}
